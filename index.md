@@ -32,6 +32,6 @@ grid_navigation:
     - title: The Little Guide to Message Queues
       excerpt: A short guide to what, why and wtf! of message queues.
       cta: Read more
-      url: https://dbproject.red
+      url: /little-guide-to-message-queues/
     
 ---

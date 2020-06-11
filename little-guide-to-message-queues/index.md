@@ -11,8 +11,8 @@ description: A short guide to what, why and wtf! of message queues.
 # Author box
 author:
     title: Need Help?
-    title_url: /about/
-    external_url: false
+    title_url: mailto:sudhir.j@gmail.com
+    external_url: true
     description: Contact me if you'd like help designing, architecting or building your applications.
 
 # Grid navigation

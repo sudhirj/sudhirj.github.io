@@ -6,7 +6,11 @@ doks:
         logo:
             text: Sudhir Jonathan
             image:
-        nav:
+        nav:            
+            - item_name: dbProject.RED
+              item_url: https://dbproject.red
+            - item_name: The Little Guide to Message Queues
+              item_url: /little-guide-to-message-queues/
             - item_name: GitHub
               item_url: https://github.com/sudhirj
             

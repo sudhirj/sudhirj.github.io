@@ -1,7 +1,7 @@
 # Theme settings
 doks:
     baseurl:
-    color_theme: blue
+    color_theme: green
     header:
         logo:
             text: Sudhir Jonathan
